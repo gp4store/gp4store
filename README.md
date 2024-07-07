@@ -2,6 +2,7 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2kyMXUxZHpwbzhoNTVuYmxnbmc2MHdmcjg5cmxsNGhnYnVneWQxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif"/>
 </div>
+<div id="header" align="center><p>Hello there ... ! </p></div>
 
 <!--
 **gp4store/gp4store** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
