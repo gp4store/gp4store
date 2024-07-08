@@ -1,9 +1,10 @@
 
 <div id="header" align="left">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2kyMXUxZHpwbzhoNTVuYmxnbmc2MHdmcjg5cmxsNGhnYnVneWQxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif"/>
+ 
 </div>
 <h1 align="left">Hello Im Gerardo... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-### 👽: About Me :
+<h4 align="justify">Im a senior mechatronics engineer, tinker and wayside system inspector, I try to apply a little of my experience to every project I get assigned. I find joy in learn new technologies that will help me in the future to create, develop and build new and better things</h4>
+
 
 <!--
 **gp4store/gp4store** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
