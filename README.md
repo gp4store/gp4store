@@ -5,7 +5,7 @@
 <h1 align="left">Hello Im Gerardo... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <h4 align="justify">Im a senior mechatronics engineer, tinker and wayside system inspector, I try to apply a little of my experience to every project I get assigned. I find joy in learn new technologies that will help me in the future to create, develop and build new and better things</h4>
 <h4 align="justify">With experience in KOP, FUP and AWL PLCs programming languages. I decided to start learning how to code in an specific programming language, such path introduced me to Python and later on to C++ even though I still have a long way ahead of me the challenge to keep develop a betterself makes me happy. I have worked with different organizations, companies and small startups, creating more efficient approaches and solutions to an existing process.
-<h6 align="left">Professional reader:</h6>
+<h6 align="left">Professional reader:
 <h6 align="left">July books : Dont Eat That Frog by Brian Tracy 🐸
 
 
