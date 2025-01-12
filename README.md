@@ -9,7 +9,7 @@
 <a href="url">https://github.com/gp4store/pto_tracker</a>
 <h5 align="left">Currently reading:
  <br/>
-The Mastery of Love - Don Miguel Ruiz
+They Boy Who Touched The Stars - Jose M. Hernandez
 
 
 
