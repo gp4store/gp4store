@@ -11,8 +11,8 @@
  <br/>
 They Boy Who Touched The Stars - Jose M. Hernandez
 <h5 align="left">Current goals:
-<h5 align="left">Finish El Camino Data Engineering Program
-<h5 align="left">Take Google Cloud Data Engineer certification wink wink.
+- Finish El Camino Data Engineering Program
+- Take Google Cloud Data Engineer certification wink wink.
 
 
 
