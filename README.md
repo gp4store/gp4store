@@ -9,7 +9,7 @@
 <a href="url">https://github.com/gp4store/pto_tracker</a>
 <h5 align="left">Currently reading:
  <br/>
-They Boy Who Touched The Stars - Jose M. Hernandez
+Dark Matter - Blake Crouch
 <h5 align="left">Current goals:
 </br>
 - Finish El Camino Data Engineering Program
