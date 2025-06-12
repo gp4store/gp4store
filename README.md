@@ -9,7 +9,7 @@
 <a href="url">https://github.com/gp4store/aboutme</a>
 <h5 align="left">Currently reading:
  <br/>
-Dark Matter - Blake Crouch
+Project Hail Mary - Andy Weir
 <h5 align="left">Current goals:
 </br>
 - Finish El Camino Data Engineering Program
