@@ -14,8 +14,7 @@ Tender Is The Flesh - Agustina Bazterrica
 </br>
 - AWS Cloud Instute - 3rd Quarter - Summer 2025
 </br>
-- Take AWS Data Engineer certification
-- Take AWS Cloud Practitioner certification 
+- Take AWS Data Engineer certification and AWS Cloud Practitioner certification 
 
 
 
