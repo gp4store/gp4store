@@ -3,8 +3,8 @@
  
 </div>
 <h1 align="left">Hello Im Gerardo... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<h4 align="justify">Im a senior mechatronics engineer, tinker and just to make a living I am a wayside system signal inspector at LACMTA, I try to apply a little of my experience to every project I get assigned. I find joy in learn new technologies that will help me in the future to create, develop and build new and better things</h4>
-<h4 align="justify">With experience in KOP, FUP and AWL PLCs programming languages. I decided to start learning how to code in an specific programming language, such path introduced me to Python and later on to C++ even though I still have a long way ahead of me the challenge to keep develop a betterself makes me happy. I have worked with different organizations, companies and small startups, creating more efficient approaches and solutions to existing process.
+<h4 align="justify">I'm a senior mechatronics engineer and tinkerer who works in transportation systems to make a living. I bring my engineering experience to every project I'm assigned, finding joy in learning new technologies that will help me create, develop, and build better solutions in the future.</h4>
+<h4 align="justify">With a background in industrial programming, I expanded into general-purpose languages. While I still have much to learn, the challenge of continuous improvement keeps me motivated. Throughout my career, I've worked with various organizations and startups, focusing on creating more efficient solutions to improve existing processes.
 <h5 align="left">Currently working on:
 <a href="url">Data Engineering - Struggle Database</a>
 <h5 align="left">Currently reading:
