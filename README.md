@@ -6,16 +6,16 @@
 <h4 align="justify">I'm a senior mechatronics engineer and tinkerer who works in transportation systems to make a living. I bring my engineering experience to every project I'm assigned, finding joy in learning new technologies that will help me create, develop, and build better solutions in the future.</h4>
 <h4 align="justify">With a background in industrial programming, I expanded into general-purpose languages. While I still have much to learn, the challenge of continuous improvement keeps me motivated. Throughout my career, I've worked with various organizations and startups, focusing on creating more efficient solutions to improve existing processes.
 <h5 align="left">Currently working on:
-<a href="url">(https://github.com/gp4store/PLC-Data-Pipeline-Vibration-Analytics)</a>
+<a href="url">https://github.com/gp4store/PLC-Data-Pipeline-Vibration-Analytics</a>
 <h5 align="left">Currently reading:
  <br/>
 Project Hail Mary - Andy Weir
 <h5 align="left">Current goals:
 </br>
-- Finish El Camino Data Engineering Program
+- AWS Cloud Instute - 3rd Quarter - Summer 2025
 </br>
-- Take Google Cloud Data Engineer certification wink wink.
-
+- Take AWS Data Engineer certification
+- Take AWS Cloud Practitioner certification 
 
 
 
