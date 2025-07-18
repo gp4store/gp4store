@@ -16,6 +16,14 @@
   </a>
 </div>
 
+## 📚 Currently Reading
+📖 **[Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350884)** by Robert C. Martin  
+📖 **[Designing Data-Intensive Applications](https://dataintensive.net/)** by Martin Kleppmann
+
+## 🔧 Currently Working On
+🚀 **[Project Name](https://github.com/yourusername/project-name)** - Real-time data pipeline using Apache Kafka  
+🔍 **Data Analytics Dashboard** - Interactive visualization tool with Plotly and Streamlit
+
 ```
 🏢 Experience & Expertise
 
