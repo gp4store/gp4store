@@ -40,12 +40,11 @@
 
 ```
 📚 Currently Reading
-- 📖 **Clean Code** by Robert C. Martin `████████░░ 80%`
-- 📖 **System Design Interview** by Alex Xu `██████░░░░ 60%`
+   The Nightingale: A Novel by  Kristin Hannah `████████░░ 80%`
+
 
 🔧 Currently Working On
-- 🚀 **Trading Data Pipeline** `🟢 In Progress`
-- 🔍 **Portfolio Analytics Tool** `🟡 Planning Phase`
+  **[Salvis Restaurants in Los Angeles County](https://github.com/yourusername/project-name)**
 ```
 <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0;">
 <div align="center">
