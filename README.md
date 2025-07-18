@@ -16,16 +16,13 @@
 </div>
 
 ```
-<h2>🏢 Experience & Expertise</h2>
+🏢 Experience & Expertise
+   Data storage, ingestion, and streaming
+   Pipeline orchestration
+   Robust data architecture design
+   API integration for enhanced data availability
+   Cost optimization and backlog prioritization
 
-<p><strong>💼 Financial Market:</strong></p>
-<ul>
-  <li>Data storage, ingestion, and streaming</li>
-  <li>Pipeline orchestration</li>
-  <li>Robust data architecture design</li>
-  <li>API integration for enhanced data availability</li>
-  <li>Cost optimization and backlog prioritization</li>
-</ul>
 
 <p><strong>⚛️ Physics:</strong></p>
 <ul>
