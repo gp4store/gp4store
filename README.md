@@ -16,18 +16,22 @@
 </div>
 
 
-## 🏢 Experience & Expertise
+<h2>🏢 Experience & Expertise</h2>
 
-💼 **Financial Market:**
-- Data storage, ingestion, and streaming
-- Pipeline orchestration
-- Robust data architecture design
-- API integration for enhanced data availability
-- Cost optimization and backlog prioritization
+<p><strong>💼 Financial Market:</strong></p>
+<ul>
+  <li>Data storage, ingestion, and streaming</li>
+  <li>Pipeline orchestration</li>
+  <li>Robust data architecture design</li>
+  <li>API integration for enhanced data availability</li>
+  <li>Cost optimization and backlog prioritization</li>
+</ul>
 
-⚛️ **Physics:**
-- Implementation of complex algorithms
-- Data analysis and visualization
+<p><strong>⚛️ Physics:</strong></p>
+<ul>
+  <li>Implementation of complex algorithms</li>
+  <li>Data analysis and visualization</li>
+</ul>
 
 <!--
 **gp4store/gp4store** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
