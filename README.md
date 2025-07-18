@@ -2,9 +2,8 @@
 <div id="header" align="left">
  
 </div>
-<h1 align="left">Hello Im Gerardo... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<h4 align="justify">I'm a senior mechatronics engineer and tinkerer who works in transportation systems to make a living. I bring my engineering experience to every project I'm assigned, finding joy in learning new technologies that will help me create, develop, and build better solutions in the future.</h4>
-<h4 align="justify">With a background in industrial programming, I expanded into general-purpose languages. While I still have much to learn, the challenge of continuous improvement keeps me motivated. Throughout my career, I've worked with various organizations and startups, focusing on creating more efficient solutions to improve existing processes.
+<h1 align="left">Hello Im GP... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h4 align="justify">I'm a Junior Data Engineer with 2 years of hands-on coding experience and 10 years in mechatronics, IoT, and automation. I'm passionate about bridging the gap between hardware and data, leveraging my deep understanding of industrial systems to build robust data pipelines and deliver insights that optimize manufacturing processes and automated systems.</h4>
 <h5 align="left">Im currently working on:
 <a href="url">https://github.com/gp4store/PLC-Data-Pipeline-Vibration-Analytics</a>
 <h5 align="left">Im currently reading:
