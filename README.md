@@ -7,8 +7,8 @@
 
 <hr style="border: none; height: 2px; background-color: #ccc; margin: 15px 0;">
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin-username">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="www.linkedin.com/in/gp4store">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="45" alt="LinkedIn"/>
   </a>
   <a href="mailto:getor3@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
