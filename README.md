@@ -7,11 +7,12 @@
 
 <hr style="border: none; height: 2px; background-color: #ccc; margin: 15px 0;">
 <div align="center">
-  <a href="www.linkedin.com/in/gp4store">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="45" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/your-linkedin-username">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="60" height="60" alt="LinkedIn"/>
   </a>
-  <a href="mailto:getor3@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="60" height="60" alt="Gmail"/>
   </a>
 </div>
 
