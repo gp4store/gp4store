@@ -15,7 +15,7 @@
   </a>
 </div>
 
-
+```
 <h2>🏢 Experience & Expertise</h2>
 
 <p><strong>💼 Financial Market:</strong></p>
@@ -32,6 +32,7 @@
   <li>Implementation of complex algorithms</li>
   <li>Data analysis and visualization</li>
 </ul>
+```
 
 <!--
 **gp4store/gp4store** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
