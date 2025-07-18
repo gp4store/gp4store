@@ -16,13 +16,6 @@
   </a>
 </div>
 
-## 📚 Currently Reading
-📖 **[Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350884)** by Robert C. Martin  
-📖 **[Designing Data-Intensive Applications](https://dataintensive.net/)** by Martin Kleppmann
-
-## 🔧 Currently Working On
-🚀 **[Project Name](https://github.com/yourusername/project-name)** - Real-time data pipeline using Apache Kafka  
-🔍 **Data Analytics Dashboard** - Interactive visualization tool with Plotly and Streamlit
 
 ```
 🏢 Experience & Expertise
@@ -43,6 +36,16 @@
    Cloud Platform: AWS
    Version Control: Git
    Containerization: Docker
+```
+
+```
+📚 Currently Reading
+- 📖 **Clean Code** by Robert C. Martin `████████░░ 80%`
+- 📖 **System Design Interview** by Alex Xu `██████░░░░ 60%`
+
+🔧 Currently Working On
+- 🚀 **Trading Data Pipeline** `🟢 In Progress`
+- 🔍 **Portfolio Analytics Tool** `🟡 Planning Phase`
 ```
 <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0;">
 <div align="center">
