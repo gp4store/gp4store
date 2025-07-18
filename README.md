@@ -44,7 +44,7 @@
 
 
 🔧 Currently Working On
-  **[Salvis Restaurants in Los Angeles County](https://github.com/yourusername/project-name)**
+  **[Salvis Restaurants in Los Angeles County](https://github.com/gp4store/salvi-restaurants-in-LA.git)**
 ```
 <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0;">
 <div align="center">
