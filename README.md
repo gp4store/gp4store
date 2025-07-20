@@ -31,7 +31,7 @@
 🚀 Skills and Tools
 
    Python: Pandas, NumPy, Polars, Flask, Django, MAtplotlib
-   Data Modeling: SQL, MongoDB
+   Data Modeling: SQL, mySQL, PostgreSQL, MongoDB
    Data Engineering: Prefect, Apache Airflow
    Cloud Platform: AWS
    Version Control: Git
